@@ -6,6 +6,9 @@
     "editor.defaultFormatter": "ms-python.black-formatter",
     "editor.formatOnSave": true
   },
+  "[jupyter]": {
+     "editor.defaultFormatter": "ms-python.black-formatter"
+  },
   "black-formatter.showNotifications": "always",
   "notebook.formatOnSave.enabled": true,
   "notebook.formatOnCellExecution": true,

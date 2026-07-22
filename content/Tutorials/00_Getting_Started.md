@@ -38,3 +38,9 @@
     "notebook.diff.ignoreMetadata": true,
    ```
    This will ensure that your code is automatically formatted with `Black` when you save it, and that `Ruff` is used for linting.
+
+
+Extra Steps:
+1. View > Terminal and run:
+python3 -m ipykernel install --user --name=.venv
+2. Change Kernel in top right on Jupyter notebook. Restart Jupyter Notebook
