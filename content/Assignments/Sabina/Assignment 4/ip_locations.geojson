@@ -1,0 +1,705 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "ip": "142.251.211.166",
+                "url": "https://955372.fls.doubleclick.net/activityi;dc_pre=CP3g5JrSjZYDFRyC0QYdiI0qtw;src=955372;type=site-0;cat=metmu0;rcb=13;ord=1;num=4026219052608;npa=0;auiddc=1238593627.1786075423;uaa=x86;uab=64;uafvl=Not%253BA%253DBrand%3B8.0.0.0%7CChromium%3B150.0.7871.189%7CGoogle%2520Chrome%3B150.0.7871.189;uamb=0;uam=;uap=Windows;uapv=19.0.0;uaw=0;pscdl=noapi;frm=0;_tu=KJA;gtm=45fe6852z8899739654za20gzb899739654zd899739654xea;gcd=13l3l3l3l1l1;dma=0;dc_fmt=2;tag_exp=115938465~115938469~118897920~118897930~119527019~119896802;epver=2;dc_random=1786075627_XwG5zd4EkbOB92AZ29bGcGQSajbAvGE75A;_dc_test=1;~oref=https%3A%2F%2Fwww.metmuseum.org%2F?"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.6244212,
+                    41.8755616
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ip": "76.76.21.21",
+                "url": "https://www.metmuseum.org/_next/static/chunks/6313edc0097d335b.css"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.2427659,
+                    34.0536909
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ip": "199.232.36.217",
+                "url": "https://skyfire.vimeocdn.com/1786079226-0x7167cdaa89627d08c80d82be295bd9870ebdcaa5/b710040c-1008-4bd9-9af0-881958f3a443/psid=7afa197b4a6d8c8442a4e52079ca3751024e9f911786075626/v2/range/prot/cmFuZ2U9ODk3LTQwODM0MzU/avf/94512694-d643-436e-8d79-bb166b4cc103.mp4?pathsig=8c953e4f~doA_A95QuwCs3afK5ff6MHKgaLpRz4SI0IXyemnAMUE&r=dXMtZWFzdDE%3D&range=897-4083435"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.0060152,
+                    40.7127281
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ip": "142.251.210.38",
+                "url": "https://ad.doubleclick.net/activity;dc_pre=CIbB5JrSjZYDFQB4wAYdqbg5rQ;src=955372;type=site-0;cat=metmu0;rcb=13;ord=1;num=4026219052608;npa=0;auiddc=1238593627.1786075423;uaa=x86;uab=64;uafvl=Not%253BA%253DBrand%3B8.0.0.0%7CChromium%3B150.0.7871.189%7CGoogle%2520Chrome%3B150.0.7871.189;uamb=0;uam=;uap=Windows;uapv=19.0.0;uaw=0;pscdl=noapi;frm=0;_tu=KJA;gtm=45fe6852z8899739654za20gzb899739654zd899739654xea;gcd=13l3l3l3l1l1;dma=0;dc_fmt=3;tag_exp=115938465~115938469~118897920~118897930~119527019~119896802;epver=2;dc_random=1786075627_XwG5zd4EkbOB92AZ29bGcGQSajbAvGE75A;~oref=https%3A%2F%2Fwww.metmuseum.org%2F?"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.8022405,
+                    32.7796895
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ip": "34.8.9.231",
+                "url": "https://ingest.quantummetric.com/horizon/metmuseum?T=B&u=https%3A%2F%2Fwww.metmuseum.org%2Fexhibitions%2Fcostume-art&t=1786075641977&v=1786075642096&H=fa59756a10417d17c584516f&s=479d4c54144a4a6f9aaddf04842b9650&U=5c5dc1a76036cbd03ef4499536617a3e&N=0&Q=2&S=0&b=809&z=1"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -94.5785681,
+                    39.0997285
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ip": "192.184.67.143",
+                "url": "https://pixel.quantserve.com/pixel;r=940063378;labels=_fp.event.Default;rf=0;a=p-Ud6J9WY3Ryurh;url=https%3A%2F%2Fwww.metmuseum.org%2Fexhibitions;ns=0;ce=1;qjs=1;qv=b414f28e-20260609162752;ref=;dst=1;et=1786075633202;tzo=240;ogl=title.The%20Metropolitan%20Museum%20of%20Art%2Cdescription.The%20Met%20presents%20over%205%252C000%20years%20of%20art%20from%20around%20the%20world%20for%20everyone%20to%20e%2Csite_name.The%20Metropolitan%20Museum%20of%20Art%2Clocale.en%2Cimage.https%3A%2F%2Fcdn%252Esanity%252Eio%2Fimages%2Fcctd4ker%2Fproduction%2Fcca3f8a98beb107f9c647bb946bbbe3%2Cimage%3Aalt.The%20Met%20Fifth%20facade%2Ctype.website;d=metmuseum.org;uht=2;fpan=0;fpa=P1-2772b386-d1df-4982-afa7-e853f002969a;pbc=;_ses=522793fb-bf71-48ac-bbfc-2ab292e9e975;_seg=1;_gacid=1625949463.1786075626;_gasid=Y0W8DGNBTB_1786075626;_gam=a;gdpr=0;mdl="
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.4185412,
+                    37.7749113
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ip": "13.32.241.38",
+                "url": "https://js.adsrvr.org/universal_pixel.js"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.0060152,
+                    40.7127281
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ip": "142.250.217.130",
+                "url": "https://adservice.google.com/ddm/fls/z/dc_pre=CP3g5JrSjZYDFRyC0QYdiI0qtw;src=955372;type=site-0;cat=metmu0;rcb=13;ord=1;num=4026219052608;npa=0;auiddc=*;uaa=x86;uab=64;uafvl=Not%253BA%253DBrand%3B8.0.0.0%7CChromium%3B150.0.7871.189%7CGoogle%2520Chrome%3B150.0.7871.189;uamb=0;uam=;uap=Windows;uapv=19.0.0;uaw=0;pscdl=noapi;frm=0;_tu=KJA;gtm=45fe6852z8899739654za20gzb899739654zd899739654xea;gcd=13l3l3l3l1l1;dma=0;dc_fmt=2;tag_exp=115938465~115938469~118897920~118897930~119527019~119896802;epver=2;dc_random=1786075627_XwG5zd4EkbOB92AZ29bGcGQSajbAvGE75A;_dc_test=1;~oref=https%3A%2F%2Fwww.metmuseum.org%2F"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.3298447,
+                    47.6043089
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ip": "34.36.58.112",
+                "url": "https://cdn.sanity.io/images/cctd4ker/production/0695aaee94118a362aa39965b73a32b7f4bbc366-5120x5120.jpg?w=640&q=75&fit=clip&auto=format"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -94.5785681,
+                    39.0997285
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ip": "142.251.154.119",
+                "url": "https://www.google.com/gmp/conversion/_dc_unique_id=6331982931783454912;_dc_ptd=ChAI8OHQ0wYQ-56t5u3kq8o-Eh8AZLhpjaF6jNYAU2pVvgeeKG9fOqqegaKKO2M1r0k6;_dc_time=1786075627;cid=CAQS4QEAEQoqgYJ7dlFOfp8a7GALWfcVB_K5foANKeRvsB32pP6wRj584q26OhsCixclrSQehayoai889eeJUkiU0w3XlAcz9igDMeQLALxcEkM3nJOaJtms6PR7CTrKwZimS0iKTeC1CGJks0VGYS3u59x9qm9D3Ff2i-a5gQrEfsnuPdzhwP_JsnRjJGr9vXK1q79EpUYygrUM6IQU21NAQab8Tg5vJ5X0BCORR2Iy-VELwJDX5QVurZ-Jit_dakRZ6aNdf9dqgzxeE9z-U95qcwZFeoiNg3JcbV0bIAM4F74E90s;eps=AHas8cCEs8F5m5IVT0jugSqsq-tBxlPPjjxEsns4-lncnA-DzkzMztnosdXl8MC4I1KQeMh4n_Mp5kDw9kzrMoBeNfRbwK7Bx71du9lmMbSUF9MIbQ;src=9331971;dc_pre=CLi21JrSjZYDFRS0gwgd2U4v1Q;type=homep0;cat=theme0;qty=1;cost=0;u1=;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;npa=;ord=UNKNOWN"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.8905913,
+                    37.3361663
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ip": "34.107.173.171",
+                "url": "https://consentag.eu/manager/consent/user/getuam"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -94.5785681,
+                    39.0997285
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ip": "8.18.45.73",
+                "url": "https://login-ds.dotomi.com/profile/visit/final/js?dtm_form_uid=193608743672985553&cachebuster=1562952842&tcflag=true&dtmc_loc=https%3A%2F%2Fwww.metmuseum.org%2F&dtm_token_assignment_type=1&dtm_cid=84329&dtm_fid=8014&dtm_zip_code=10025&dtm_user_dc=ric&dtm_id_assgn_type=3&dtm_state=NY&dtm_user_agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F150.0.0.0%20Safari%2F537.36&dtm_country_code=US&init_wl_code=1&ops_test_camp=false&dtm_token=AQAN95_uM1mpfgE3LVopAQBIaAABAQCejjgzpQEBAJ7bZSPS&dtm_dma_code=501&dtm_cmagic=c3ec0d&init_ts=1786075627162&dtm_client_optout=false&dtm_tag_complete=false&wl_domains_key=.*---&dtm_promo_id=1&dtm_cookies_enabled=true&data_object_type_code=0&canonical_url=https%3A%2F%2Fwww.metmuseum.org%2F&dtmc_ref=&dtm_token_dc=AQAN95_uM1mpfgE3LVopAQBIaAABAQCejjgzpQEBAJ7bZSPS&dtm_token_ls=AQAN95_uM1mpfgE3LVopAQBIaAABAQCejjgzpQEBAJ7bZSPS&dtm_token_ss=AQAN95_uM1mpfgE3LVopAQBIaAABAQCejjgzpQEBAJ7bZSPS&dtm_sync=0%2420672%2420672%2426832-0%235010-0%2357734-0%2367750-0%2369627-0%2367215-0%2396431-0%231103-0%23&dtm_consent_ls=UNSPECIFIED&dtm_consent_ss=UNSPECIFIED&dtm_consent_dc=UNSPECIFIED&dtm_consent=UNSPECIFIED&cli_promo_id=1&cmps_queried=true&dtm_paapi=1"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.6988891,
+                    33.0198016
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ip": "199.232.37.140",
+                "url": "https://alb.reddit.com/rp.gif?ts=1786075627567&id=a2_gudne17oxb6u&event=PageVisit&m.itemCount=&m.value=&m.valueDecimal=&m.currency=&m.transactionId=&m.customEventName=&m.products=&m.conversionId=&uuid=a6399164-4f4b-4e4e-adac-ae501cf1ea90&aaid=&external_id=&idfa=&integration=reddit&partner=&partner_version=&opt_out=0&sh=1536&sw=864&v=rdt_dfcb27f0&dpm=&dpcc=&dprc=&esurl=https%3A%2F%2Fwww.metmuseum.org%2F&db=tsc-0.isc-0.pp-0.fetch-1.mo-1.iframe-0.ww-0.qsa-1.srv_cfg-0.src_pid-0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.0060152,
+                    40.7127281
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ip": "35.186.224.24",
+                "url": "https://pixels.spotify.com/v1/config/a6c80369de374e939489c5815ce2a579"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -94.5785681,
+                    39.0997285
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ip": "108.138.128.98",
+                "url": "https://sr-client-cfg.amplitude.com/config/946c173b37f3101f9c531ee945a31fc8?config_group=browser"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.0060152,
+                    40.7127281
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ip": "108.139.29.12",
+                "url": "https://cdn.amplitude.com/libs/analytics-browser-gtm-wrapper-2.42.5.min.js.br"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.0060935,
+                    40.7128388
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ip": "23.209.72.12",
+                "url": "https://analytics.tiktok.com/api/v2/pixel/inter"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.0555552,
+                    40.7967439
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ip": "45.60.77.20",
+                "url": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/12127/2199429/main-image"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.4075201,
+                    37.7879363
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ip": "23.44.203.24",
+                "url": "https://analytics.tiktok.com/i18n/pixel/static/main.MTAwMWEwYTFlMQ.js"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.0555552,
+                    40.7967439
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ip": "142.251.45.200",
+                "url": "https://www.googletagmanager.com/gtag/destination?id=DC-955372&cx=c&gtm=4e6852"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.0060935,
+                    40.7128388
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ip": "54.144.192.222",
+                "url": "https://eb2.3lift.com/xuid?mid=6732&dongle=38F&xuid=AQAN95_uM1mpfgE3LVopAQBIaAEBAQCejjgzpQEBAJ7bZkFl&gdpr_consent="
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.03637,
+                    38.89511
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ip": "34.36.11.88",
+                "url": "https://beacon.sojern.com/pixel/p/203605?f_v=v6_js&p_v=2&pc=&sha256_eml=&sha1_eml=&md5_eml=&ccid=&vid=tou&cid="
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -94.5785681,
+                    39.0997285
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ip": "54.163.146.91",
+                "url": "https://sp.analytics.yahoo.com/spp.pl?a=10000&.yp=10206432&he={INSERT_MACRO_HERE}&hph={INSERT_MACRO_HERE}"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.03637,
+                    38.89511
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ip": "157.240.241.1",
+                "url": "https://connect.facebook.net/signals/config/2402686916634370?v=2.9.373&r=stable&domain=www.metmuseum.org&hme=6d1ed5deee7eafc01c53d9e9fc3c4e10db50c3d28237bc4932686777e5c3969a&ex_m=111%2C215%2C163%2C23%2C76%2C77%2C154%2C72%2C71%2C11%2C172%2C96%2C17%2C146%2C134%2C41%2C79%2C84%2C142%2C168%2C174%2C27%2C15%2C28%2C29%2C30%2C32%2C50%2C155%2C81%2C119%2C19%2C21%2C46%2C42%2C44%2C43%2C89%2C98%2C102%2C117%2C153%2C156%2C48%2C118%2C25%2C22%2C126%2C73%2C38%2C158%2C157%2C159%2C150%2C148%2C26%2C37%2C61%2C116%2C170%2C74%2C18%2C161%2C121%2C87%2C70%2C20%2C91%2C92%2C123%2C90%2C144%2C143%2C147%2C103%2C169%2C36%2C51%2C120%2C49%2C8%2C4%2C5%2C7%2C6%2C3%2C97%2C108%2C175%2C182%2C229%2C78%2C242%2C241%2C240%2C24%2C35%2C57%2C110%2C63%2C10%2C67%2C104%2C105%2C106%2C112%2C137%2C33%2C31%2C139%2C140%2C141%2C136%2C135%2C164%2C80%2C167%2C165%2C166%2C52%2C62%2C130%2C16%2C171%2C47%2C286%2C287%2C285%2C300%2C318%2C222%2C211%2C64%2C212%2C210%2C321%2C312%2C54%2C223%2C114%2C138%2C86%2C128%2C56%2C127%2C133%2C132%2C60%2C68%2C66%2C160%2C82%2C83%2C122%2C39%2C34%2C55%2C58%2C107%2C173%2C1%2C131%2C14%2C129%2C12%2C2%2C59%2C99%2C69%2C65%2C125%2C95%2C94%2C176%2C177%2C100%2C101%2C9%2C109%2C53%2C151%2C93%2C85%2C75%2C124%2C113%2C45%2C152%2C0%2C88%2C145%2C149%2C162%2C40%2C115%2C13%2C178%2C239%2C237%2C232%2C234%2C235%2C236%2C233%2C221%2C238%2C231%2C203%2C197%2C201%2C202%2C200%2C195%2C342%2C206%2C198%2C199%2C225%2C196%2C194%2C246%2C216%2C188%2C189%2C184%2C190%2C187%2C185%2C186%2C183%2C181%2C192%2C193%2C191%2C288%2C341%2C309%2C307%2C308%2C306%2C204%2C249%2C256%2C250%2C252%2C255%2C253%2C254%2C251%2C248%2C265%2C260%2C262%2C259%2C266%2C263%2C258%2C264%2C261%2C257%2C302%2C315"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.0060152,
+                    40.7127281
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ip": "172.64.146.215",
+                "url": "https://px.ads.linkedin.com/attribution_trigger?pid=7188444&time=1786075628032&url=https%3A%2F%2Fwww.metmuseum.org%2F"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.4185412,
+                    37.7749113
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ip": "23.219.36.108",
+                "url": "https://snap.licdn.com/li.lms-analytics/insight.min.js"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.0555552,
+                    40.7967439
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ip": "109.61.92.47",
+                "url": "https://cdn.ctnsnet.com/ase/fetch/scraper/89506646/d41d8cd98f00b204e9800998ecf8427e.js?caid=55f2d2224c4d44b8878a299b20001e1a&cst=&gdpr_consent=&caid=55f2d2224c4d44b8878a299b20001e1a"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.8022405,
+                    32.7796895
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ip": "172.67.71.219",
+                "url": "https://surveys-static-prd.survicate-cdn.com/widget_core-28.32.0.js"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.4185412,
+                    37.7749113
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ip": "15.197.193.217",
+                "url": "https://insight.adsrvr.org/track/cei?advertiser_id=78gi7po&cookie_sync=1&upv=3.0.0&upid=7ybmb7s&ref=https%3A%2F%2Fwww.metmuseum.org%2F"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.3298447,
+                    47.6043089
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ip": "142.251.211.66",
+                "url": "https://cm.g.doubleclick.net/pixel?google_nid=dotomi&google_cm&google_sc&google_ula=17128,0&google_hm=AQAN95_uM1mpfgE3LVopAQBIaAEBAQCejjgzpQEBAJ7bZkFl&gdpr_consent="
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.6244212,
+                    41.8755616
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ip": "142.251.41.174",
+                "url": "https://analytics.google.com/g/collect?v=2&tid=G-Y0W8DGNBTB&gtm=45je6852v889312667za20gzb899739654zd899739654&_p=1786075626594&gcd=13l3l3l3l1l1&npa=0&dma=0&_eu=AEAAACQC&ae=a&are=1&cid=1625949463.1786075626&frm=0&ibt=1&ngs=1&pscdl=noapi&rcb=18&sr=1536x864&uaa=x86&uab=64&uafvl=Not%253BA%253DBrand%3B8.0.0.0%7CChromium%3B150.0.7871.189%7CGoogle%2520Chrome%3B150.0.7871.189&uam=&uamb=0&uap=Windows&uapv=19.0.0&uaw=0&ul=en-us&_s=3&tag_exp=115938465~115938469~118395333~118897920~118897930~119337768~119527019~119896803&dl=https%3A%2F%2Fwww.metmuseum.org%2Fexhibitions%2Fcostume-art&dr=https%3A%2F%2Fwww.metmuseum.org%2Fexhibitions&sid=1786075626&sct=1&seg=1&dt=Costume%20Art%20-%20The%20Metropolitan%20Museum%20of%20Art&en=page_view&ep.gtm_container_id=GTM-KBJJBHH&_et=8252&tfd=21370"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.6244212,
+                    41.8755616
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ip": "192.184.67.70",
+                "url": "https://secure.quantserve.com/quant.js"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.4185412,
+                    37.7749113
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ip": "192.0.66.2",
+                "url": "https://cdn.parsely.com/keys/metmuseum.org/p.js"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.4185412,
+                    37.7749113
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ip": "3.168.102.53",
+                "url": "https://try.abtasty.com/shared/analytics.4f3292d9648a3b82de12.js"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.0060935,
+                    40.7128388
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ip": "52.204.189.58",
+                "url": "https://sync.crwdcntrl.net/qmap?c=18048&tp=EPSN&tpid=AQAN95_uM1mpfgE3LVopAQBIaAEBAQCejjgzpQEBAJ7bZkFl&gdpr=false&gdpr_consent=&d=https%3A%2F%2Flotame-match.dotomi.com%2Fmatch%2Fbounce%2Fcurrent%3FnetworkId%3D9253738%26version%3D1%26nuid%3D%24%7Bprofile_id%7D%26gdpr%3D%24%7Bgdpr%7D%24%7Bdaisybit%3A%26gdpr_consent%3D%7D"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.03637,
+                    38.89511
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ip": "216.19.192.2",
+                "url": "https://pixel.rubiconproject.com/tap.php?v=5364|1|90&nid=2046&expires=90&put=AQAN95_uM1mpfgE3LVopAQBIaAEBAQCejjgzpQEBAJ7bZkFl&gdpr=false&gdpr_consent="
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.6568537,
+                    37.4315554
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ip": "34.117.162.98",
+                "url": "https://pixel.byspotify.com/ping.min.js"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -94.5785681,
+                    39.0997285
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ip": "34.98.64.218",
+                "url": "https://us-u.openx.net/w/1.0/sd?id=537072954&val=AQAN95_uM1mpfgE3LVopAQBIaAEBAQCejjgzpQEBAJ7bZkFl&gdpr_consent="
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -94.5785681,
+                    39.0997285
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ip": "35.186.193.173",
+                "url": "https://i.ctnsnet.com/int/integration?pixel=89013490&nid=66354764&cont=s&loc=https%3A%2F%2Fwww.metmuseum.org%2F&ref=&cst=&gdpr_consent=&caid=55f2d2224c4d44b8878a299b20001e1a"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -94.5785681,
+                    39.0997285
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ip": "54.228.246.171",
+                "url": "https://respondent.survicate.com/workspaces/5c82727293475c10de9d0ffa0ace00b3/surveys/b4c7253afb4bd4d0/seen.json"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.2519983,
+                    53.3354479
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ip": "199.232.37.137",
+                "url": "https://res.cloudinary.com/survicate-cloud/image/upload/v1684162586/Header%20logos/ljwwbgp3eobluwkbuho7.png"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.0060152,
+                    40.7127281
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ip": "34.143.74.2",
+                "url": "https://mpc-prod-28-1053047382554.us-central1.run.app/events?cee=no"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.8905913,
+                    37.3361663
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ip": "104.20.36.39",
+                "url": "https://cdn.quantummetric.com/qscripts/quantum-metmuseum.js"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.4185412,
+                    37.7749113
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ip": "18.236.14.52",
+                "url": "https://api2.amplitude.com/2/httpapi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -119.7013847,
+                    45.8398775
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ip": "104.18.26.193",
+                "url": "https://dsum-sec.casalemedia.com/rum?cm_dsp_id=65&external_user_id=AQAN95_uM1mpfgE3LVopAQBIaAEBAQCejjgzpQEBAJ7bZkFl&gdpr_consent="
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.4185412,
+                    37.7749113
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ip": "34.8.30.44",
+                "url": "https://ariane.abtasty.com/"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -94.5785681,
+                    39.0997285
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ip": "3.168.102.80",
+                "url": "https://rules.quantcount.com/rules-p-Ud6J9WY3Ryurh.js"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.0060935,
+                    40.7128388
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ip": "34.194.161.83",
+                "url": "https://p1.parsely.com/plogger/?rand=1786075670296&plid=0ab67006-de41-458b-a2b3-6128bc64cf54&idsite=metmuseum.org&url=https%3A%2F%2Fwww.metmuseum.org%2F&urlref=&screen=1536x864%7C1536x816%7C24&data=%7B%7D&sid=1&surl=https%3A%2F%2Fwww.metmuseum.org%2F&sref=https%3A%2F%2Fwww.google.com%2F&sts=1786075423369&slts=0&date=Fri+Aug+07+2026+00%3A07%3A50+GMT-0400+(Eastern+Daylight+Time)&action=heartbeat&inc=37&tt=37004&pvid=60a81ad6-3fe3-48b8-bca7-bc37ef5928c8&u=pid%3Dde861945-5955-4b9c-b03e-1c755f398999"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.03637,
+                    38.89511
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ip": "107.150.176.1",
+                "url": "https://survey.survicate.com/workspaces/5c82727293475c10de9d0ffa0ace00b3/web_surveys.js"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.0060935,
+                    40.7128388
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ip": "68.67.179.113",
+                "url": "https://ib.adnxs.com/px?consent=1&id=1881703&t=1"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.0060152,
+                    40.7127281
+                ]
+            }
+        }
+    ]
+}
