@@ -7,6 +7,10 @@
 content/**/Data/
 content/**/cache/
 
+# Student assignment folders that are their own separate git repos
+# (has its own .git/remote - tracked there, not here)
+content/Assignments/Sabina/Assignment 5/restaurants_mapping_website/
+
 # prof-only drafts, not for students
 planning/
 
